@@ -1,0 +1,20 @@
+{
+   
+    "dataFolder":"/Users/atiatamsi/Downloads/ML-Gait1/Data/NeuralNets_GaitRec/",
+    "1Layer":{
+        "epochs":7000,
+        "weights":[0.112584, 0.62412, 0.83570, 0.32414],
+
+    },
+    "2Layer":{
+        "epochs":3000,
+        "weights":[0.154678, 0.62412, 0.83570, 0.52713],
+        "noNeurons":80
+    },
+    "3Layer":{
+        "epochs":5000,
+        "weights":[0.11678, 0.62412, 0.83570, 0.52713],
+        "noNeurons1":80,
+        "noNeurons2":20
+    }
+}
